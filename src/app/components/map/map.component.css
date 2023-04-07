@@ -1,0 +1,15 @@
+.map-container {
+    position: absolute;
+    top: 4rem;
+    left: 1rem;
+    right: 10rem;
+    bottom: 1rem;
+}
+
+.map-frame {
+    height: 100%;
+}
+
+#map {
+    height: 100%;
+}
